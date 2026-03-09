@@ -1,12 +1,13 @@
 <h1 align="center"> Tarea3: Modulo-3-Reconocimiento Pasivo y Activo</h1>
 
-Se comparten 4 documentos en PDF con las evidencias de la resoluciòn de las 4 instrucciones para la tarea:
+Se comparten 4 documentos en PDF con las evidencias de la resoluciòn de las 4 instrucciones de entrega de la tarea
 
+Documentos:  
 <ul>
-<li>Documento: Tarea 3 - Parte 1 </li>
-<li>Documento: Tarea 3 - Parte 2 </li>
-<li>Documento: Tarea 3 - Parte 3 </li>
-<li>Documento: Tarea 3 - Parte 4 </li>
+<li>Tarea 3 - Parte 1.pdf </li> 
+<li>Tarea 3 - Parte 2.pdf </li>
+<li>Tarea 3 - Parte 3.pdf </li>
+<li>Tarea 3 - Parte 4.pdf </li>
 </ul>
   
 <h2>Parte 1 - Reconocimiento Pasivo con Google Dorks</h2>
